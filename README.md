@@ -1,5 +1,5 @@
 Hello there! I'm ION606, the creator of Selmer Bot.
-I'm currently a full-time student trying and somehow failing to get into the Github Student program.
+I'm currently a full-time student trying not to neglect most of my projects and failing :/
 
 
 <!---
