@@ -1,5 +1,5 @@
 Hello there! I'm ION606, the creator of Selmer Bot.
-I'm currently a full-time student trying not to neglect most of my projects and failing :/
+I'm currently a full-time student trying (and failing) not to neglect my projects on here :/
 
 
 <!---
