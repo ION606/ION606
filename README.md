@@ -1,5 +1,6 @@
 <div style="color: white">
 <h1 align="center">Henlos ^~^ I'm ION606</h1>
+  
 - 🔭 I’m currently working on [ChatJS](https://github.com/Proto-Chat/chatJS-main)
 
 - 🌱 I’m currently studying **neural networks, data analysis, procedural animation, redis**
