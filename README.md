@@ -1,7 +1,7 @@
 <div style="color: white">
 <h1 align="center">Henlos ^~^ I'm ION606</h1>
   
-- 🔭 I’m currently working on [ChatJS](https://github.com/Proto-Chat/chatJS-main)
+- 🔭 I’m currently working on [The ION Language](https://github.com/The-ION-Language) and [ChatJS](https://github.com/Proto-Chat/chatJS-main)
 
 - 🌱 I’m currently studying **neural networks, data analysis, procedural animation, redis**
 
@@ -68,6 +68,7 @@
 <a href="https://electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ION606/ION606/assets/58801387/ffeb5f73-1d02-46a4-9595-b21532b6c62d" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://pptr.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/puppeteer/puppeteer-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
 <h4>Software</h4>
