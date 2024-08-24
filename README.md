@@ -99,7 +99,7 @@
 <a href="https://stackoverflow.com/users/13159393/ion606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ion606" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ion606&show_icons=true&theme=radical&hide_border=true&locale=en" alt="ion606" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ion606&show_icons=true&theme=midnight-purple&hide_border=true&locale=en" alt="ion606" /></p>
 
 <p align="center"> 
   number of cute people who viewed my profile<br>
