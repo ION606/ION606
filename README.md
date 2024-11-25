@@ -1,7 +1,7 @@
 <div style="color: white">
 <h1 align="center">Henlos ^~^ I'm ION606</h1>
   
-- 🔭 I’m currently working on [The ION Language](https://github.com/The-ION-Language) and [ChatJS](https://github.com/Proto-Chat/chatJS-main)
+- 🔭 I’m currently working on [my bluesky client](https://github.com/ION606/bluesky-client) and [my browser](https://github.com/ION606/browser)
 
 - 🌱 I’m currently studying **neural networks, data analysis, procedural animation, redis**
 
