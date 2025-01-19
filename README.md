@@ -42,7 +42,6 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ION606/ION606/assets/58801387/880c324c-fc69-403c-8453-1c9630558c7f" alt="flask" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
