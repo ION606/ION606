@@ -119,11 +119,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ion606&show_icons=true&theme=midnight-purple&hide_border=true&locale=en" alt="ion606" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ion606&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ion606&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ion606&show_icons=true&theme=midnight-purple&hide_border=true&locale=en" alt="ion606" />
 </p>
 
 <!-- <p align="center">
