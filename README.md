@@ -5,8 +5,8 @@
 
 ### 🎨 About Me
 - 🔭 I’m currently working on [my Bluesky client](https://github.com/ION606/bluesky-client) and [my workout app](https://github.com/ION-WorkoutApp).
-- 🌱 I’m currently studying **neural networks, data analysis, procedural animation, Redis**.
-- 💬 Ask me about **Express.js, web design, or kernel-level operations**.
+- 🌱 I’m currently studying **neural networks, data analysis, and procedural animation**.
+- 💬 Ask me about **Express.js, Databases (and all the fun schemas), or kernel-level operations**.
 - 📫 You can reach me at **ion606@protonmail.com**.
 - ⚡ Fun fact: **I still enjoy creating with GameMaker Studio 2** for fun side projects.
 
